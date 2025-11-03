@@ -10,5 +10,6 @@ Each day explores specific topics, and every folder typically contains:
 
 ## Module 2: Machine Learning
 
-- **Day 18:** Support Vector Machines (SVM) + Overfitting & Underfitting  
-- **Day 19:** Decision Trees
+- **Day 18:** SVM + Overfitting & Underfitting  
+- **Day 19:** Decision Trees + Random forest
+- **Day 20:** KNN + Clustering + Dimensionality Reduction(PCA, SVD, ICA)
