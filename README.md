@@ -10,6 +10,8 @@ Each day explores specific topics, and every folder typically contains:
 
 ## Module 2: Machine Learning
 
+- **Day 08:** MiniMax + Alpha Beta Pruning
 - **Day 18:** SVM + Overfitting & Underfitting  
 - **Day 19:** Decision Trees + Random forest
 - **Day 20:** KNN + Clustering + Dimensionality Reduction(PCA, SVD, ICA)
+- **Day 21:** Model Evaluation
